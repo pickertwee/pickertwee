@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently a final year student Diploma in Network Security<br><br>🌱 I’m currently in progress updating my portfolio<br><br>⚡ Fun fact: I prefer eating roti bom with curry</p>
+<p align="left">🔭 I’m currently a final year student Diploma in Network Security<br><br>🌱 In progress updating my portfolio<br><br>⚡ Fun fact: I prefer eating roti bom with curry</p>
 
 ###
 
